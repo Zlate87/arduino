@@ -6,7 +6,7 @@
  
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
  
-Twitter twitter("457519377-Bm1w1tccofzcORr0E3ao2LewqZ1gsFemtm42xyMA");
+Twitter twitter("TWITTER_KEY");
 float temperature = -100;
  
 void setup()
